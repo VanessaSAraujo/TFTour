@@ -15,7 +15,7 @@ Projeto com base no projeto Alura Plus
 ## Desafio:
 *  O "TFTour" é um site projetado para promover um torneio de TFT, fornecendo informações sobre o evento, modos de jogo, prêmios e a oportunidade de inscrição. Ele utiliza uma estética azul e branca, seguindo o tema do jogo League of Legends, e tem um design responsivo para atender a diversos dispositivos.
 
-* A página utiliza imagens ilustrativas, botões de chamada para ação e uma paleta de cores consistente para fornecer uma experiência de usuário atraente. Os links no rodapé levam a várias páginas de informações adicionais, como idioma, dispositivos compatíveis, contrato de assinatura e política de privacidade.
+* A página utiliza imagens ilustrativas, botões de chamada para ação e uma paleta de cores consistente para fornecer uma experiência de usuário atraente. Os links no rodapé levam a várias páginas de informações adicionais, como ajuda, sobre torneio, etc.
 
 ## Feito por:
 
